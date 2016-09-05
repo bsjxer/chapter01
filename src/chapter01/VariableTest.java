@@ -26,7 +26,7 @@ public class VariableTest {
 		// reference type ( 참조형 )
 		Circle circle = new Circle();
 //		System.out.println(circle.area);
-//		System.out.println(circle.radius);  초기화 값은 0
+//		System.out.println(.radius);  초기화 값은 0
 		
 		circle.radius = 5;
 		circle.area = 5 * 5 * 3.14 ;
