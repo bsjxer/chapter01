@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Day02Student {
+public class Student {
 		int number;	//학번이 0144621일 경우 int로 하면 144621이 되기 때문에 String으로 해야한다
 		String name;
 		boolean isEnrolled;
